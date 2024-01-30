@@ -21,8 +21,8 @@ Console.WriteLine(product3);
 int qotient = i1 / i2;
 Console.WriteLine(qotient);
 
-d1 = 6;
-double qotient2 = i1 / d1; 
+double d2 = 6;
+double qotient2 = i1 / d2; 
 Console.WriteLine(qotient2);
 
 
