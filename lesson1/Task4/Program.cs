@@ -4,7 +4,7 @@ int c = 9;
 int d = 4;
 int e = 10; 
 
-int a = max;
+int max = a;
 
 if (b > max)
 {
