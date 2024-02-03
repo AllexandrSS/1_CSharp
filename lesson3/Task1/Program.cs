@@ -5,4 +5,7 @@
     double result = numenator / denomenator;
     return result;
 }
-CalculateFormula(1, 2, 3, 4);
+
+
+double result = CalculateFormula(1, 2, 3, 4);
+Console.WriteLine(result);
